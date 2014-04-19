@@ -1,5 +1,5 @@
 {
-  "name": "heartbleed",
+  "name": "heartbleed-check",
   "version": "1.0.0",
   "description": "OpenSSL Heartbleed Bug Check",
   "main": "./lib/heartbleed.js",
